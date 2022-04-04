@@ -1,12 +1,8 @@
 ![CI](https://github.com/tachiyomiorg/tachiyomi-extensions-1.x/workflows/CI/badge.svg?event=push)
 
-## What is this?
+you take a look at look at [here](https://github.com/kazemcodes/tachiyomi-extensions-1.x/tree/Ireader/sources/en) to understand how to create sources for IReader.
 
-Extensions for the rewrite of Tachiyomi.
-
-## Should I try this out?
-
-No. Nothing works. This is a branch made only for development.
+if you had any problem you can mention me in [discord](https://discord.gg/HBU6zD8c5v) or in [disscussion](https://github.com/kazemcodes/IReader/discussions)
 
 ## License
 
